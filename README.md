@@ -63,6 +63,7 @@ Esses componentes podem ser aplicados a conjuntos de dados próprios.
 
 ```bash
 pip install -r requirements.txt
+```
 
 # Principais Resultados
 
@@ -83,6 +84,7 @@ Além disso, o modelo alcançou:
 
 ```math
 QWK \approx 0.84
+```
 
 A viabilidade para aplicações de telediagnóstico em tempo real foi confirmada, com latências de inferência inferiores a 100 ms.
 
